@@ -1,3 +1,0 @@
-name of student |class  | 	 age
-hariom          | 	 10 |  15
-piyush          | 	 12 |  18
